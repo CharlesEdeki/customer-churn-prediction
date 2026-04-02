@@ -23,22 +23,26 @@ This project builds that model on the real IBM Telco Customer Churn dataset - 7,
 <img width="508" height="527" alt="image" src="https://github.com/user-attachments/assets/f4c43eb8-3c0a-43c6-9935-9a8f58fcde7a" />
 
 ### Tenure & Monthly Charges by Churn
-![EDA](outputs/tenure_charges_eda.png)
+<img width="1016" height="502" alt="image" src="https://github.com/user-attachments/assets/a4d7e9f4-4c85-4680-ad2b-1d51b7efb6f5" />
+
+<img width="1020" height="510" alt="image" src="https://github.com/user-attachments/assets/717ccbd4-f814-4ad4-b2f5-dbdb4f10c3ad" />
 
 ### Churn Rate by Contract Type & Internet Service
-![Category Analysis](outputs/churn_by_category.png)
+<img width="890" height="527" alt="image" src="https://github.com/user-attachments/assets/64cbde9e-8a23-489a-b093-9bbe53683a7d" />
+
+<img width="891" height="531" alt="image" src="https://github.com/user-attachments/assets/5df3a422-edcd-4dad-9e0c-2aebe25f8412" />
 
 ### ROC Curves - Model Comparison
-![ROC Curves](outputs/roc_curves.png)
+<img width="793" height="551" alt="image" src="https://github.com/user-attachments/assets/37f26f6e-f395-44cf-a44b-5b0a73c7c3ae" />
 
 ### Confusion Matrix - Best Model
-![Confusion Matrix](outputs/confusion_matrix.png)
+<img width="579" height="553" alt="image" src="https://github.com/user-attachments/assets/f59b201e-ac3e-42d5-8df9-65a4bcc5da78" />
 
 ### Feature Importance - Random Forest
-![Feature Importance](outputs/feature_importance.png)
+<img width="792" height="552" alt="image" src="https://github.com/user-attachments/assets/3034ce51-94f6-4b12-aff2-01ec165280f3" />
 
 ### Threshold Optimisation
-![Threshold Analysis](outputs/threshold_analysis.png)
+<img width="954" height="391" alt="image" src="https://github.com/user-attachments/assets/ce7107cf-ad8c-4b30-9607-cafce6c2fe5a" />
 
 ---
 
