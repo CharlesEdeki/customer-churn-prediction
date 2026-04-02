@@ -138,20 +138,6 @@ Customers without TechSupport or OnlineSecurity churn at higher rates. Including
 
 ---
 
-## How to Run
-
-```bash
-git clone https://github.com/charlesedeki/customer-churn-prediction
-cd customer-churn-prediction
-mkdir data outputs
-
-# Download the dataset from Kaggle and place in /data
-# https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-# File: WA_Fn-UseC_-Telco-Customer-Churn.csv
-
-jupyter notebook customer_churn_prediction.ipynb
-```
-
 ---
 
 ## About
