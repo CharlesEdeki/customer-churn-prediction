@@ -20,8 +20,7 @@ This project builds that model on the real IBM Telco Customer Churn dataset - 7,
 ## Dashboard Preview
 
 ### Churn Distribution
-![Churn Distribution](<img width="508" height="527" alt="image" src="https://github.com/user-attachments/assets/f4c43eb8-3c0a-43c6-9935-9a8f58fcde7a" />
-)
+<img width="508" height="527" alt="image" src="https://github.com/user-attachments/assets/f4c43eb8-3c0a-43c6-9935-9a8f58fcde7a" />
 
 ### Tenure & Monthly Charges by Churn
 ![EDA](outputs/tenure_charges_eda.png)
